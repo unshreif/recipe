@@ -18,7 +18,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - [Solution URL](https://github.com/unshreif/recipe)
-- [Live Site URL](https://raw.githack.com/unshreif/recipe/main/index.html)
+- [Live Site URL](https://recipe-xi-fawn.vercel.app/)
 
 ## My process
 
