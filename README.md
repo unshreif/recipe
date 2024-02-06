@@ -17,8 +17,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/unshreif/recipe)
-- Live Site URL: [Add live site URL here](https://raw.githack.com/unshreif/recipe/main/index.html)
+- [Solution URL](https://github.com/unshreif/recipe)
+- [Live Site URL](https://raw.githack.com/unshreif/recipe/main/index.html)
 
 ## My process
 
