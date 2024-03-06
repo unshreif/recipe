@@ -1,0 +1,98 @@
+
+@font-face {
+    font-family: youngserif;
+    src: url(YoungSerif-Regular.ttf);
+}
+@font-face {
+    font-family: Outfit-light;
+    src: url(Outfit-Light.ttf);
+}
+@font-face {
+    font-family: outfitbold;
+    src: url(Outfit-Bold.ttf);
+}
+img{
+    border-radius: 1.5vw;
+    width: fit-content;
+    
+}
+h1{
+    font-family: youngserif;
+    padding-left:0.95vw;
+}
+.p1{
+    padding-left: 0.99vw;
+}
+.div1{
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 1.5vw;
+    width: 90%;
+    padding-top:0.01vw;
+    padding-bottom: 0.02vw;
+}
+.p2{
+    font-family: outfitbold;
+    color: hsl(332, 51%, 32%);
+    font-size: 3vw;
+}
+.p3{
+    font-family: youngserif;
+    color: hsl(332, 51%, 32%);
+    font-size: 3vw;
+    color:hsl(14, 45%, 36%);
+    padding-left: 3vw;
+}
+.l2{
+    padding-left: 3vw;
+    font-family:Outfit-light;
+}
+.p4{
+    font-size: 3vw;
+    color:hsl(14, 45%, 36%);
+    padding-left: 3vw;
+    font-family: youngserif;
+}
+.td1{
+    padding-left: 170px;
+    display: flex;
+    width: 300px;
+    font-family: youngserif; color: hsl(14, 45%, 36%);
+}
+.td2{
+font-family: Outfit-light;
+}
+@media screen and (max-width: 480px) {
+    .p2{
+        font-family: outfitbold;
+        color: hsl(332, 51%, 32%);
+        font-size: 5vw;
+    }
+.p3{
+    font-family: youngserif;
+    font-size: 5vw;
+    color:hsl(14, 45%, 36%);
+    padding-left: 3vw;  
+}    
+.p4{
+    font-size: 5vw;
+    color:hsl(14, 45%, 36%);
+    padding-left: 3vw;
+    font-family: youngserif; 
+}
+.t1{
+padding-left: 12vw;
+}
+.t2{
+padding-left: 19vw;
+}
+.t3{
+padding-left: 13vw;
+}
+.t4{
+padding-left: 25vw;
+}
+img{
+    border-radius: 1.5vw;
+    max-width: 80vw;
+}
+}
