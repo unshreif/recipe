@@ -54,7 +54,7 @@ h1{
 .td1{
     padding-left: 170px;
     display: flex;
-    width: 200px;
+    width:fit-content;;
     font-family: youngserif; color: hsl(14, 45%, 36%);
 }
 .td2{
