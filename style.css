@@ -1,15 +1,15 @@
 
 @font-face {
     font-family: youngserif;
-    src: url(YoungSerif-Regular.ttf);
+    src: url(/used\ fonts/YoungSerif-Regular.ttf);
 }
 @font-face {
     font-family: Outfit-light;
-    src: url(Outfit-Light.ttf);
+    src: url(/used\ fonts/Outfit-Light.ttf);
 }
 @font-face {
     font-family: outfitbold;
-    src: url(Outfit-Bold.ttf);
+    src: url(/used\ fonts/Outfit-Bold.ttf);
 }
 img{
     border-radius: 1.5vw;
