@@ -1,16 +1,29 @@
 @font-face {
     font-family: youngserif;
-    src: url(./fonts/YoungSerif-Regular.ttf);
+    src: url(/used\ fonts/YoungSerif-Regular.ttf);
 }
 @font-face {
     font-family: Outfit-light;
-    src: url(./fonts/Outfit-Light.ttf);
+    src: url(/used\ fonts/Outfit-Light.ttf);
 }
 @font-face {
     font-family: outfitbold;
-    src: url(./fonts/Outfit-Bold.ttf);
+    src: url(/used\ fonts/Outfit-Bold.ttf);
 }
 img{
+    border-radius: 1.5vw;
+    width: 90%;
+}
+h1{
+    font-family: youngserif;
+    padding-left:0.95vw;
+}
+.p1{
+    padding-left: 0.99vw;
+}
+.div1{
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 1.5vw;
     width: 90%;
     margin-left: 5vw;
     border-radius: 3vw;
@@ -19,7 +32,30 @@ body{
     padding: 3vw;
     line-height: 3vw;
 }
-p{
+.p3{
+    font-family: youngserif;
+    color: hsl(332, 51%, 32%);
+    font-size: 3vw;
+    color:hsl(14, 45%, 36%);
+    padding-left: 3vw;
+}
+.l2{
+    padding-left: 3vw;
+    font-family:Outfit-light;
+}
+.p4{
+    font-size: 3vw;
+    color:hsl(14, 45%, 36%);
+    padding-left: 3vw;
+    font-family: youngserif;
+}
+.td1{
+    padding-left: 150px;
+    display: flex;
+    width:fit-content;;
+    font-family: youngserif; color: hsl(14, 45%, 36%);
+}
+.td2{
 font-family: Outfit-light;
 }
 .prepare{
